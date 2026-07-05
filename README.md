@@ -8,8 +8,8 @@ I'm a Senior Associate in CyberOps & Assurance focused on technology risk, contr
   - Creating Qlik dashboards for risk, control, and contract review data
   - Learning more about cloud security, local LLMs, and security engineering Skills & Tools
 
-****Featured Projects:**
-  - **Cybersecurity Home Lab
+**Featured Projects:**
+  - **Cybersecurity Home Lab**
     - A local lab environment for running self-hosted tools, monitoring systems, and practicing technical security skills.
 
 **Education**
